@@ -29,4 +29,4 @@ PatOS - Small Linux Rescue Boot Disk
 | Boot Support   | BIOS + UEFI            |
 | Init System    | [init type, e.g. `sysvinit`, `systemd`, `busybox`] |
 | Kernel Version | [your kernel version]  |
-| ISO Size       | ~[ISO size] MB         |
+| ISO Size       | ~ 470 MB               |
